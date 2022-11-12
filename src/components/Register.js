@@ -43,7 +43,7 @@ const Register = () => {
   return (
     <>
       <div className="container">
-        <h1>Register</h1>
+        <h1>Registration</h1>
 
         <Form.Group className="mb-3" controlId="formBasicName">
           <Form.Label>Full Name</Form.Label>
